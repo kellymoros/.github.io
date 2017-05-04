@@ -493,7 +493,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "If people are trying to bring you do that only means your above them<div>-Kelly Moros</div>",
+          "title": "If people are trying to bring you do that only means your above them<div>-idk</div>",
           "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
@@ -611,7 +611,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7a7c8f",
+            "bgColor": "#797a81",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -987,7 +987,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7a7c8f",
+            "bgColor": "#797a81",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1202,7 +1202,7 @@
           },
           "title": "Kelly Moros",
           "text": "\"Life is the art of drawing without an eraser\"<br>~Kelly Moros~",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Kelly Moros Introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction Here</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"My Story.html\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Kelly Moros Introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction Here</a>  "
         },
         {
           "_styles": {
@@ -1326,7 +1326,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1356,7 +1356,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1517,7 +1517,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -1576,7 +1576,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#797a81",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1640,10 +1640,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1887,7 +1887,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
@@ -2021,7 +2021,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
@@ -2155,7 +2155,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
@@ -2279,7 +2279,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7a7c8f",
+            "bgColor": "#797a81",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2363,10 +2363,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2600,7 +2600,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -2734,7 +2734,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -2793,7 +2793,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7a7c8f",
+            "bgColor": "#797a81",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2894,7 +2894,8 @@
     "Adobe Pemire.html": {
       "settings": {
         "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description"
+        "meta_descr": "Website Generator Description",
+        "order": 6
       },
       "components": [
         {
@@ -3023,7 +3024,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#9c9ac1",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3111,7 +3112,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#9c9ac1",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3197,7 +3198,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#797a81",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
